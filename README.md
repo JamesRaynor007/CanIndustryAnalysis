@@ -4,11 +4,10 @@ This README outlines the step-by-step process for automating data analysis and r
 
 ---
 
-1. **Obtain data from web sources via web scraping or load from Google Sheets and local CSV/XLSX files.**  
-Cannabis Retail Sales by Week Ending (open dataset) 03-22-2026
-Web Page
-https://catalog.data.gov/dataset/cannabis-retail-sales-by-week-ending
-CSV file (to be used)
+1. **Obtain data from web sources via web scraping or load from Google Sheets and local CSV/XLSX files.**  <br>
+Web Page<br>
+https://catalog.data.gov/dataset/cannabis-retail-sales-by-week-ending <br>
+CSV file (to be used) <br>
 https://data.ct.gov/api/views/ucaf-96h6/rows.csv?accessType=DOWNLOAD <br>
 
 2. **Perform data cleaning by removing duplicates, handling missing values, and formatting data appropriately.** <br> 
