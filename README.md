@@ -24,3 +24,6 @@ https://data.ct.gov/api/views/ucaf-96h6/rows.csv?accessType=DOWNLOAD <br>
 10. **Document the entire workflow in a `README.md`, including setup instructions, update procedures, dependencies, and tools used.**  
 
 ---
+
+Step-By-Step
+![Step-By-Step](Step-By-Step/Step-By-Step.pdf) <br>
