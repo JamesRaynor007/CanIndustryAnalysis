@@ -1,0 +1,61 @@
+/* CSS styling example: Red background, white h1, blue h2, cyan h3 */
+
+body {
+  background-color: #117c84;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  color: black;
+  padding-right: 400px; /* Space for sidebar */
+  box-sizing: border-box;
+}
+
+h1 {
+  color: greenyellow;
+  font-size: 2.5em;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+h2 {
+  color: burlywood;
+  font-size: 2em;
+  margin-top: 30px;
+}
+
+h3 {
+  color: white;
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+
+/* Right sidebar navigator */
+#sidebar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 300px;
+  height: 100vh;
+  background: linear-gradient(180deg, #05746d, #21a7a7);
+  box-shadow: -4px 0 20px rgba(0,0,0,0.3);
+  z-index: 999;
+  overflow-y: auto;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+body {
+  padding-right: 400px;
+}
+
+#sidebar h4 {
+  color: white;
+  margin-bottom: 15px;
+  font-size: 1.2em;
+}
+
+#sidebar select {
+  pointer-events: auto !important;
+  z-index: 10;
+  position: relative;
+}
